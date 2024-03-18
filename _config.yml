@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Meng Yu / 余萌"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Meng Yu"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Meng Yu"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "江苏-南京"
+  employer         : "南京航空航天大学"
   uri              : # URL
   email            : "none@example.org" 
 
