@@ -12,7 +12,7 @@ title                    : "Meng Yu / 余萌"
 title_separator          : "-"
 name                     : &name "Meng Yu"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yumeeng999.github.io/stupidrone.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
